@@ -2,7 +2,7 @@
 But it might be useful for filling pages in exams and filling time in interview.
 So, with the help of [Redpapr AI](https://redpapr.com/), I have compiled a list of all 195 countries in the world and their strategic importance for India.
 
-![Modi Ji in Mongolia]{/images/modiji-in-mongolia.jpg}
+![Modi Ji in Mongolia](/images/modiji-in-mongolia.jpg)
 Prime Minister, Shri Narendra Modi with the students and staff at Atal Bihari Vajpeyee Information and Comm. Technology Training Centre, in Ulaanbaatar, Mongolia on May 17, 2015.
 
 * [Afghanistan](/strategic-importance-of-afghanistan.md)
